@@ -1,0 +1,63 @@
+h1
+{
+  font-weight:bold;
+  text-align: center;
+}
+
+.guvi-filter
+{
+  width: 500px;
+  aspect-ratio: auto 500;
+  height: 500px;
+  position: relative;  
+}
+
+.kannan-guvi
+{
+  background:hsl(249deg 89% 5%);
+  color:white;
+  text-align: center;
+}
+.guvi-first
+{
+  font-size:150%;
+  align items: center;
+  font-weight:bold;
+}
+
+.guvi-second
+{
+  font-size:150%;
+  font-weight:bold;
+  text-align: center;
+}
+
+.guvi-third
+{
+  font-size:150%;
+  font-weight:bold;
+}
+
+.guvi-full-mode
+{
+  font-size:50%;
+  display: flex;
+  flex direction: column;
+  align-text: center;
+  flex-direction: column;
+}
+
+p
+{
+  font-size:80%;
+  text-align: center;
+}
+
+.section
+{
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+
+
